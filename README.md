@@ -17,3 +17,5 @@ One of the first testers 5G from Brazil (Americanet / Nokia 5G)
 My project to know more my website is Gutierrez.Dev.BR
 
 Thank, See You
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutierrezHenrique&show_icons=true&theme=radical)
